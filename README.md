@@ -35,9 +35,9 @@ A simple REST API for managing a to-do list, built with Node.js and Express. Tas
 
 ## API Endpoints
 
-POST /tasks: Create a new task.
-GET /tasks: Fetch all tasks.
-GET /tasks/:id: Fetch a task by ID.
-PUT /tasks/:id: Update the status of a task.
-DELETE /tasks/:id: Delete a task by ID.
+1. POST /tasks: Create a new task.
+2. GET /tasks: Fetch all tasks.
+3. GET /tasks/:id: Fetch a task by ID.
+4. PUT /tasks/:id: Update the status of a task.
+5. DELETE /tasks/:id: Delete a task by ID.
 
